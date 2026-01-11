@@ -2,7 +2,7 @@
   
 #### Who am I?
 
-Hello, and welcome! My name is Henrique Luiz, I'm from **Brazil** 🇧🇷 and 20 years old.
+Hello, and welcome! My name is Henrique Luiz, I'm from **Brazil** 🇧🇷.
 Currently I'm working as a fullstack developer.
 
 ### ❓ About Me  
